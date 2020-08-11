@@ -1,10 +1,7 @@
 # getting the base Image
-FROM python:3.6
+FROM python:3.6-slim-buster
 
 MAINTAINER Ana Balica <ana.balica@gmail.com>
-
-# Updated by
-LABEL HUSSAIN="husainattar110@gmail.com"
 
 EXPOSE 8000
 
