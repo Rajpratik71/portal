@@ -52,5 +52,9 @@ module.exports = {
       type: "doc",
       id: "user-auth",
     },
+    {
+      type: "doc",
+      id: "tech-decisions",
+    },
   ],
 };
