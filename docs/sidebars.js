@@ -24,5 +24,9 @@ module.exports = {
       type: "doc",
       id: "test-the-app",
     },
+    {
+      type: "doc",
+      id: "maintainer-guideline",
+    },
   ],
 };
