@@ -12,5 +12,9 @@ module.exports = {
       type: "doc",
       id: "home-page",
     },
+    {
+      type: "doc",
+      id: "how-to-contribute",
+    },
   ],
 };
