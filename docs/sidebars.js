@@ -20,6 +20,9 @@ module.exports = {
       type: "doc",
       id: "commit-message-style-guide",
     },
-
+    {
+      type: "doc",
+      id: "test-the-app",
+    },
   ],
 };
