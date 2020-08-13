@@ -62,7 +62,11 @@ module.exports = {
     },
     {
       type:"doc",
-      id: "community-creation"
+      id: "community-creation",
+    },
+    {
+      type:"doc",
+      id: "community-resources",
     },
   ],
 };
