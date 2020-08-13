@@ -35,6 +35,10 @@ module.exports = {
     {
       type: "doc",
       id: "environment-variables",
-    }
+    },
+    {
+      type: "doc",
+      id: "tech-stack",
+    },
   ],
 };
