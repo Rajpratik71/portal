@@ -8,5 +8,9 @@ module.exports = {
       type: "doc",
       id: "adding-pages",
     },
+    {
+      type: "doc",
+      id: "home-page",
+    },
   ],
 };
