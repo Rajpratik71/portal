@@ -72,5 +72,9 @@ module.exports = {
       type:"doc",
       id: "meetups-creation",
     },
+    {
+      type:"doc",
+      id: "groups-permissions",
+    },
   ],
 };
