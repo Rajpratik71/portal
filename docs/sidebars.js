@@ -60,5 +60,9 @@ module.exports = {
       type: "doc",
       id: "database-design",
     },
+    {
+      type:"doc",
+      id: "community-creation"
+    },
   ],
 };
