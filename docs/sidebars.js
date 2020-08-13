@@ -44,5 +44,9 @@ module.exports = {
       type: "doc",
       id: "coding-standard",
     },
+    {
+      type: "doc",
+      id: "code-org",
+    },
   ],
 };
