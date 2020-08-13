@@ -56,5 +56,9 @@ module.exports = {
       type: "doc",
       id: "tech-decisions",
     },
+    {
+      type: "doc",
+      id: "database-design",
+    },
   ],
 };
