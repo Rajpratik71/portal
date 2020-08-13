@@ -80,5 +80,9 @@ module.exports = {
       type:"doc",
       id: "zoom-meetings",
     },
+    {
+      type:"doc",
+      id: "future-ideas",
+    },
   ],
 };
