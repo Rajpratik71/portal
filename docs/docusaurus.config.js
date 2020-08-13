@@ -1,25 +1,25 @@
 module.exports = {
-  title: "Tinysaurus",
+  title: "Portal",
   tagline: "Minimal scaffold for Docusaurus",
   url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/tinysaurus/",
+  baseUrl: "/portal/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
-  organizationName: "sanketdg", // Usually your GitHub org/user name.
-  projectName: "tinysaurus", // Usually your repo name.
+  organizationName: "anitab-org", // Usually your GitHub org/user name.
+  projectName: "portal", // Usually your repo name.
   themeConfig: {
     colorMode: {
       defaultMode: "dark",
     },
     navbar: {
-      title: "Tinysaurus",
+      title: "AnitaB Portal Docs",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
       },
       items: [
         {
-          href: "https://github.com/sanketdg/tinysaurus",
+          href: "https://github.com/anitab-org/portal",
           label: "GitHub",
           position: "right",
         },
@@ -27,7 +27,7 @@ module.exports = {
     },
     footer: {
       style: "dark",
-      copyright: `Copyright © ${new Date().getFullYear()} sanketdg. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Anita-B. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -41,7 +41,7 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/sanketdg/tinysaurus/edit/master/",
+            "https://github.com/anitab-org/portal/edit/master/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
