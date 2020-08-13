@@ -76,5 +76,9 @@ module.exports = {
       type:"doc",
       id: "groups-permissions",
     },
+    {
+      type:"doc",
+      id: "zoom-meetings",
+    },
   ],
 };
