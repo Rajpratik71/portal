@@ -41,7 +41,7 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/anitab-org/portal/edit/master/",
+            "https://github.com/anitab-org/portal/edit/master/docs/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
