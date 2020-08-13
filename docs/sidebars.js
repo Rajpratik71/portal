@@ -40,5 +40,9 @@ module.exports = {
       type: "doc",
       id: "tech-stack",
     },
+    {
+      type: "doc",
+      id: "coding-standard",
+    },
   ],
 };
