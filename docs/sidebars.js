@@ -16,5 +16,10 @@ module.exports = {
       type: "doc",
       id: "how-to-contribute",
     },
+    {
+      type: "doc",
+      id: "commit-message-style-guide",
+    },
+
   ],
 };
