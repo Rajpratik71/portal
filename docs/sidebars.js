@@ -68,5 +68,9 @@ module.exports = {
       type:"doc",
       id: "community-resources",
     },
+    {
+      type:"doc",
+      id: "meetups-creation",
+    },
   ],
 };
