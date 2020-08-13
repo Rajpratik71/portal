@@ -32,5 +32,9 @@ module.exports = {
       type: "doc",
       id: "setup-osx",
     },
+    {
+      type: "doc",
+      id: "environment-variables",
+    }
   ],
 };
