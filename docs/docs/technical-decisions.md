@@ -22,9 +22,15 @@ These are a few reasons why Django is considered as an apt framework for this pr
 - Django, evolving as a very popular framework, has an excellent community of developers because of which easy help is available, just a google search away.
 
 
+<<<<<<< HEAD
 ### Anyone wishing to try their hands on Django can check out the excellent documentation by checking out this [link](https://docs.djangoproject.com/en/3.0/)
 
 ## Django-AllAuth
+=======
+## Anyone wishing to try their hands on Django can check out the excellent documentation by checking out this [link](https://docs.djangoproject.com/en/3.0/)
+
+# Django-AllAuth
+>>>>>>> 67a858aacce4cd918e70325ae57bd7be216f17d9
 
 ***All the Authentication Done for the Portal is done by DJango-ALlauth which provides great abstraction over User Authentication and Social Accounts Authentication.***
 
@@ -39,7 +45,11 @@ The Following are the Reasons for Using Django-AllAuth
 - E-mail address verification flow
 - A huge number of Social Account Providers
 
+<<<<<<< HEAD
 #### Architecture & Design
+=======
+### Architecture & Design
+>>>>>>> 67a858aacce4cd918e70325ae57bd7be216f17d9
 
 - Pluggable signup form for asking additional questions during signup.
 - Support for connecting multiple social accounts to a Django user account.
@@ -50,7 +60,11 @@ The Following are the Reasons for Using Django-AllAuth
 
 For more info, visit the following link [Django-Allauth](https://django-allauth.readthedocs.io/en/latest/overview.html).
 
+<<<<<<< HEAD
 ### Django Nose
+=======
+## Django Nose
+>>>>>>> 67a858aacce4cd918e70325ae57bd7be216f17d9
 
 ***Testing proves to be an important part of any product. IN case of Portal we abide by Django-Nose For testing and Coverage.***
 
@@ -65,11 +79,19 @@ Django-nose provides all the goodness of nose in your Django tests, like:
 
 For more info visit https://django-nose.readthedocs.io/
 
+<<<<<<< HEAD
 ### Flake 8
 
 ***Used to catch linting and indentation warning and errors.***
 
 ### Pinax Notification
+=======
+## Flake 8
+
+***Used to catch linting and indentation warning and errors.***
+
+## Pinax Notification
+>>>>>>> 67a858aacce4cd918e70325ae57bd7be216f17d9
 
 ***Pinax Notification is being used in the Portal to send in-app Notifications based on different triggers or actionss.***
 
@@ -80,11 +102,19 @@ Features provided by Pinax Notifications
 - Ability to supply your own backend notification channels
 - Ability to scope notifications at the site level
 
+<<<<<<< HEAD
 ### Django-selenium
 
 ***Web Driver Selenium tests are done using django-selenium in the Portal***
 
 ### GeoIP2
+=======
+## Django-selenium
+
+***Web Driver Selenium tests are done using django-selenium in the Portal***
+
+## GeoIP2
+>>>>>>> 67a858aacce4cd918e70325ae57bd7be216f17d9
 
 *** This particular Library is being used to fetch user locations from the maxmind database.***
 
@@ -94,7 +124,11 @@ Reasons for Using GeoIP2
 - Many of the records returned by the GeoIP web services and databases include a geoname_id field. This is the ID of a geographical feature (city, region, country, etc.) in the GeoNames database.
 - Easy to fetch location details using the Url Headers.
 
+<<<<<<< HEAD
 ### Crispy Forms
+=======
+## Crispy Forms
+>>>>>>> 67a858aacce4cd918e70325ae57bd7be216f17d9
 
 *** Crispy forms are used in the Portal to make the Default Django forms more intuitive and giving it a human touch. Helps provide customized form rendering in django***
 

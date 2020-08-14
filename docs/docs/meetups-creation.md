@@ -9,7 +9,7 @@ _Meetups were created as a later addition to the original systers portal project
 
 ***Requesting Meetups***
 
-* Any user of the portal i.e registered within the portal can request for meetups
+* Any user of the portal i.e. registered within the portal can request for meetups
 * Meetup Requests require a few fields to be filled in by the users so that the request can be reviewed. They are
     * Title for Meetup
     * Venue
