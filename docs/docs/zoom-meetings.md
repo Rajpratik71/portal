@@ -4,7 +4,7 @@ title: Zoom Meetings
 ---
 
 
-# Zoom Virtual Meetings
+### Zoom Virtual Meetings
 
 _The pandemic situation made the portal team realize that there was a need to have virtual meetings enabled so that the portal users could hold meetings even in the lockdown situation._
 

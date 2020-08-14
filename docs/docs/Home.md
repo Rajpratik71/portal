@@ -15,7 +15,7 @@ A primary goal of Systers is to be inclusive to the largest number of contributo
 
 See the full [Code of Conduct](https://github.com/systers/portal/blob/master/code_of_conduct.md) and the [Reporting Guidelines](https://github.com/systers/portal/blob/master/reporting_guidelines.md).
 
-## portal
+## Portal
 The Systers Portal is for our communities to post and share information within and with other communities
 
 To Setup the environment of the project in OSX follow [this](https://github.com/systers/portal/wiki/Installation-Instructions-for-MacOS).

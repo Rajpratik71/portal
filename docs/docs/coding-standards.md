@@ -4,7 +4,7 @@ title: Coding Standards
 ---
 
 
-# Portal Coding Standards
+## Portal Coding Standards
 
 Having python as then major development language, the following are the coding practices and standards which are being used in the project.
 

@@ -3,7 +3,7 @@ id: community-resources
 title: Community Resources
 ---
 
-# Resources and News
+### Resources and News
 
 ***Purpose of Need***
 
@@ -17,7 +17,7 @@ The Second Option was chosen because of the following reasons.
 - To keep the Communities and its operations at one place as it would be easy to manage
 - To extend the use of the Portal, so that it would not just be a one time visit to the website.
 
-## The Following Features are Provided by the Portal for Sharing Resources and News.
+### The Following Features are Provided by the Portal for Sharing Resources and News.
 
 - Resources can be created by members and moderators
 - The Resources which are moderated by the admins or moderators are visible publicly to all the people

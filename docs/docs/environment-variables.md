@@ -4,7 +4,7 @@ title: Environment Variables
 ---
 
 
-## The following Environment Variables need to be exported for the correct functioning of the Portal locally
+#### The following Environment Variables need to be exported for the correct functioning of the Portal locally
 
 ***
 ### SECRET_KEY

@@ -4,11 +4,11 @@ title: Tech Stack
 ---
 
 
-# Tech Stack Used in Portal
+### Tech Stack Used in Portal
 
-### Language - **Python 3.x**
+#### Language - **Python 3.x**
 
-### Framework - **Django 3.04**
+#### Framework - **Django 3.04**
 
 ***
 

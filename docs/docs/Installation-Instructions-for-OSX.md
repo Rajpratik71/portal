@@ -3,7 +3,7 @@ id: setup-osx
 title: Installation Instructions for OSX
 ---
 
-Setup for Developers (working on OSX)
+### Setup for Developers (working on OSX)
 =======================================
 
 * **Requirements:**

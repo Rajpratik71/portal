@@ -3,9 +3,6 @@ id: groups-permissions
 title: Groups and Permissions
 ---
 
-Groups and Permissions
-======================
-
 As it was previously discussed, each community is associated with 4 auth groups.
 Each group implies a specific set of permissions:
 

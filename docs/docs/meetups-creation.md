@@ -3,8 +3,7 @@ id: meetups-creation
 title: Meetups Creation
 ---
 
-The Concept of Meetups
-======================
+### The Concept of Meetups
 
 _Meetups were created as a later addition to the original systers portal project because of the need to organise events within the Portal Communities_
 

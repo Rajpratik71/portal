@@ -3,8 +3,6 @@ id: user-auth
 title: User Authentication
 ---
 
-# User Authentication
-
 ## Standard User Model
 
 ***What is it?***
